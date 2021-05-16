@@ -8,6 +8,6 @@ My program will help you check the state of the cardiovascular system,
 but I from Russia, and this program not translated to English language.
 ----------------------------------------------------------------
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------------------------------
 Please! IF YOU FROM OUR COUNTRIES, AND WE dont know russia. Translate by 'Google Translate'
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------------------------------
